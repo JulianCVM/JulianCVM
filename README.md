@@ -10,7 +10,7 @@
 <div align="center">
   
   [![GitHub followers](https://img.shields.io/github/followers/juliancvm?logo=github&style=for-the-badge)](https://github.com/juliancvm)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/julian-camilo-villamizar-montañez)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julian-camilo-villamizar-monta%C3%B1ez-a65ab9232/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juliancamilovm22@hotmail.com)
   
 </div>
