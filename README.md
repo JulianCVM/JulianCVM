@@ -53,7 +53,7 @@ public class Julian {
 
 - 🔭 Actualmente estoy trabajando en **proyectos con JavaScript**
 - 🌱 Estoy aprendiendo **React y Node.js**
-- 👯 Busco colaborar en **proyectos de código abierto e innovadores**
+- 🗿 Busco colaborar en **proyectos de código abierto e innovadores**
 - 💬 Pregúntame sobre **Java, desarrollo web, bases de datos y arquitectura de software**
 - 📫 Cómo contactarme: **juliancamilovm22@hotmail.com**
 
